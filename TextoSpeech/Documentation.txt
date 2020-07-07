@@ -1,0 +1,5 @@
+This program converts text into speech 
+using windows builtin voice 
+through help of win32com.client module package
+USAGE: could be used in automation softwares,
+ limit to imagination :) 
