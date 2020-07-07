@@ -1,0 +1,4 @@
+This program extracts texts from PDF's and does other related function like : 
+finding out number of pages in pdf etc
+USAGE: this code snippet could be used to automate or 
+could be used with speech recognistion programs 
