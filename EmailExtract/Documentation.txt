@@ -1,0 +1,4 @@
+This can be used to extract email id  using this code snippet
+Example of use of regular expression 
+USAGE: ccould be used with automation programs as an module
+ 
